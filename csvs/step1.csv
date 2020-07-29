@@ -1,0 +1,101 @@
+person_name,court_name,dx_number,distance
+tommy,Worthing County Court and Family Court,98230 Worthing 4,2.1
+tommy,Worthing Magistrates' Court,DX 153460 Brighton 17,2.1
+tommy,Hove Trial Centre,,11.36
+tommy,Brighton Tribunal Hearing Centre,,11.89
+tommy,Brighton-Hearing Centre,,12.49
+tommy,Brighton County and Family Court,98070 Brighton 3,12.49
+tommy,Brighton District Probate Registry,98073 Brighton 3,12.49
+tommy,Brighton Magistrates' Court,,12.54
+tommy,Horsham County Court and Family Court,98070 Brighton 3,17.73
+tommy,Horsham Magistrates' Court,DX153460 Brighton 17,17.73
+chuckie,Bolton Social Security and Child Support Tribunal,,4.83
+chuckie,Bolton Crown Court,745180 Bolton 22,5.22
+chuckie,Bolton Magistrates' Court,745180 Bolton 22,5.22
+chuckie,"Gangmaster Licensing Appeals (England, Wales and Scotland)",,10.23
+chuckie,Manchester Employment Tribunal,743570 Manchester 66,10.25
+chuckie,Manchester District Probate Registry,724784 Manchester 44,10.33
+chuckie,Manchester Civil Justice Centre (Civil and Family Courts),724783 Manchester 44,10.33
+chuckie,Greater Manchester Central Accounts and Enforcement Unit,,10.39
+chuckie,Manchester Crown Court (Crown Square),702538 Manchester 11,10.39
+chuckie,Manchester Magistrates' Court,745170 Manchester 75,10.39
+phil,Loughborough Magistrates' Court,716116 Loughborough 4,12.82
+phil,Leicester Probate Sub Registry,96454 Oxford 4,13.27
+phil,Leicester County Court and Family Court,17401 Leicester 3,13.28
+phil,Leicester Crown Court,10880 Leicester 3,13.28
+phil,Leicester Tribunal Hearing Centre,,13.37
+phil,Leicester Magistrates' Court,304401 LEICESTER 42,13.39
+phil,Nottingham Social Security and Child Support Tribunal,,16.6
+phil,Nottingham County Court and Family Court,702380 Nottingham 7,16.62
+phil,Nottingham Crown Court,702383 Nottingham 7,16.62
+phil,Nottingham Magistrates' Court,719030 Nottingham 32,16.63
+lil,Birmingham Crown Court,702033 Birmingham 8,6.54
+lil,Midlands (West) Employment Tribunal,,6.54
+lil,Birmingham Civil and Family Justice Centre,701987 Birmingham 7,6.61
+lil,Birmingham Immigration and Asylum Chamber (First Tier Tribunal),,6.61
+lil,Birmingham Magistrates' Court,715205 Birmingham 39,6.62
+lil,Birmingham Youth Court,,6.62
+lil,Coventry Magistrates' Court,701583 Coventry 5,10.78
+lil,Coventry Combined Court Centre,701580 Coventry 5,10.83
+lil,Redditch Magistrates' Court,,11.62
+lil,Leamington Spa Magistrates' Court,701964 Leamington 7,13.84
+angelica,Boston County Court and Family Court,701922 Boston 2,7.63
+angelica,Boston Magistrates' Court,DX  703232 LINCOLN 6,7.63
+angelica,King's Lynn Crown Court,,19.36
+angelica,King's Lynn Magistrates' Court and Family Court,97389 Norwich 5,19.36
+angelica,Peterborough Combined Court Centre,702302 Peterborough 8,22.79
+angelica,Peterborough Magistrates' Court,,22.82
+angelica,Lincoln County Court and Family Court,703231 LINCOLN 6,32.47
+angelica,Lincoln Magistrates' Court,703232 Lincoln 6,32.47
+angelica,Lincoln Probate Sub-Registry,26451 Leeds Park Square,32.47
+angelica,Lincoln Crown Court,,33.01
+susie,Lincoln Crown Court,,13.59
+susie,Lincoln County Court and Family Court,703231 LINCOLN 6,14.18
+susie,Lincoln Magistrates' Court,703232 Lincoln 6,14.18
+susie,Lincoln Probate Sub-Registry,26451 Leeds Park Square,14.18
+susie,Great Grimsby Combined Court Centre,702007 Grimsby 3,16.03
+susie,Grimsby Magistrates' Court and Family Court,707680 Grimsby 5,16.19
+susie,Hull and Holderness Magistrates' Court and Hearing Centre,742160 Hull 20,24.32
+susie,Kingston-upon-Hull Magistrates' Court and Hearing Centre,742160 Hull 20,24.32
+susie,Kingston-upon-Hull Combined Court Centre,703010 Hull 5,24.53
+susie,Hull Tribunal Hearing Centre,,24.55
+kim,Luton and South Bedfordshire Magistrates' Court and Family Court,,3.29
+kim,Luton County Court and Family Court,97760 Luton 4,3.31
+kim,Luton Crown Court,120500 Luton 6,3.54
+kim,St Albans Magistrates' Court ,,11.51
+kim,St Albans Crown Court,120500 Luton 6 ,11.58
+kim,Stevenage Magistrates' Court ,,12.49
+kim,Hatfield Magistrates' Court,,13.83
+kim,Amersham Law Courts,,15.35
+kim,Milton Keynes County Court and Family Court,136266 Milton Keynes 6,15.66
+kim,Milton Keynes Magistrates' Court and Family Court,136270 Milton Keynes 6,15.68
+dil,Sefton Magistrates' Court,,3.08
+dil,Liverpool Civil and Family Court,702600,5.59
+dil,North West Regional Divorce Centre,,5.59
+dil,Liverpool District Probate Registry,14246 Liverpool 1,5.94
+dil,Liverpool & Knowsley Magistrates' Court,740880 Liverpool 22,5.94
+dil,Liverpool Crown Court,740880 Liverpool 22,5.94
+dil,Liverpool Youth Court,740880 Liverpool 22,5.95
+dil,Wirral Magistrates' Court,17888 Birkenhead,6.53
+dil,Birkenhead County Court and Family Court,725000 Birkenhead 10,6.63
+dil,St Helen's County Court and Family Court,725020 St Helens 4,12.18
+spike,Middlesbrough County Court at Teesside Combined Court,65152 Middlesbrough 2,3.95
+spike,Teesside Combined Court Centre,65152 Middlesbrough 2,3.95
+spike,Teesside Magistrates' Court and Family Court,60562 Middlesbrough,4.1
+spike,Peterlee Magistrates' Court,63808 Newton Aycliffe,14.42
+spike,Darlington Magistrates' Court and Family Court,63808 Newton Aycliffe,17.17
+spike,Darlington County Court and Family Court,65109 Darlington 2,17.57
+spike,Newton Aycliffe Magistrates' Court,63808 Newton Aycliffe,17.63
+spike,Durham County Court and Family Court,65115 Durham 5,21.78
+spike,Durham Crown Court,65112 Durham 4,21.79
+spike,"Sunderland County, Family, Magistrates’ and Tribunal Hearings",742740 Sunderland 17,24.56
+stu,Colchester Magistrates' Court and Family Court,151020 Chelmsford 17,12.88
+stu,Bury St Edmunds County Court and Family Court,97640 Bury St Edmunds 3,17.26
+stu,Chelmsford Crown Court,97375 Chelmsford 3,19.15
+stu,Chelmsford Magistrates' Court and Family Court,151020 Chelmsford 17,20.02
+stu,Chelmsford County and Family Court,97660 Chelmsford 4,20.41
+stu,Ipswich Crown Court,729480 Ipswich 19,20.68
+stu,Ipswich Magistrates' Court,332801 IPSWICH 32,20.94
+stu,Ipswich County Court and Family Hearing Centre,97730 Ipswich 3,21.06
+stu,Ipswich District Probate Registry,61081 Newcastle upon Tyne 14,21.06
+stu,Cambridge Crown Court,97365 Cambridge 2,26.57
