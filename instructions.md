@@ -23,4 +23,4 @@ office: one of ["London", "Leeds", "Manchester"],
 fte: float between 0 and 1
 ```
 
-**Task**: Write function(s) to validate these conditions against the two datasets provided (`good_data.csv` and `bad_data.csv`). Log the results of your tests to screen.
+**Task**: Write function(s) to validate these conditions against the two datasets provided (`good_data.csv` and `bad_data.csv`). Log the results of your tests to screen. There are somes starter functions in `main.R`.
