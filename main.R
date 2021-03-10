@@ -9,8 +9,8 @@ assert_is_not_null <- function(data, column){
   # a column in a dataframe does
   # not contain null values
   #
-  # data: pandas DataFrame
-  # column: str column name
+  # data: Tibble or Other R Dataframe
+  # column: character column name
   # 
   # Returns: Nothing yet 
   
@@ -22,24 +22,23 @@ assert_is_between <- function(data, column, lower, upper){
   # and only contains values between
   # lower and upper
   # 
-  # data: pandas DataFrame
+  # data: Tibble or Other R Dataframe
   # column: str column name
-  # lower: float
-  # upper: float
+  # lower: numeric
+  # upper: numeric
   # 
   # Returns: Nothing yet
-  return(T)
+
 }
 
-assert_is_between <- function(data, column, lower, upper){
-  # Skeleton for asserting 
-  # a column contains only
-  # the values in a list
-  # 
-  # data: pandas DataFrame
-  # column: str column name
-  # contains: list of values that can be in 
-  #           column
+assert_is_enum <- function(data, column, contains){
+  # Skeleton for asserting
+  # a column contains only
+  # the values in a list
+  #
+  # data: Tibble or Other R Dataframe
+  # column: character column name
+  # contains: vector of values that can be in the column
   # 
   # Returns: Nothing yet
   
